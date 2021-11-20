@@ -1,0 +1,15 @@
+Requirements:
+Check OS Windows / Linux
+Check ROOT Pervilage
+Check Docker
+  if not available install until docker and docker-compose is ready
+Check port 80 and/or 443 is available
+
+Apakah ingin di ekspos ke internet? atau hanya digunakan secara lokal?
+  Kalau internet:
+    Kaish pilihan, masukkan alamat domain server dan/atau IP server
+    Kasih pilihan, apakah ingin menggunakan ngrok untuk mendapatkan domain gratis?
+  Kalau local:
+    Masukkan IP local
+
+Masukkan nama, email, dan password super admin
